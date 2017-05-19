@@ -294,9 +294,8 @@ cite{ display:block; }
 </div>
 
 
-<!--播放器结束 } -->
-</body>
-</html>
+<!--播放器结束 } --> 
+
 <script>
 var QueryString = function () {
   // This function is anonymous, is executed immediately and 
