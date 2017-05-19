@@ -1,12 +1,4 @@
-
-
-
-
-<!DOCTYPE>
-<html>
-<head>
-<meta charset="utf-8">
-<title>musicPlayer</title> 
+ 
 <style type="text/css">
 /*Ã¥Ë†ÂÃ¥Â§â€¹Ã¥Å’â€“*/
 body, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, blockquote, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; }
@@ -203,9 +195,8 @@ button { padding:5px 10px; overflow:visible; }
 .f-list a{ margin:0 5px 0 0; padding:0 10px 0 0; background:url(http://www.feelcss.com/wp-content/themes/fengchao/images/external_link.png) no-repeat scroll right top transparent; color:#006600; text-decoration:none; }
 .f-list a:hover{ text-decoration:underline; }
 cite{ display:block; }
-</style>
-</head>
-<body>
+</style> 
+
 <div class="page-info clearfix">
   <h1>
     <a href="https://github.com/littleflute/blMp3Player/images/edit/master/index.html" target="_blank">v0.0.6</a>
